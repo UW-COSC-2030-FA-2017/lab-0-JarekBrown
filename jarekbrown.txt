@@ -1,0 +1,3 @@
+How to use command.
+Learned more about the Turing Machine.
+How to grab last two lines of a file.
